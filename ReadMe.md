@@ -1,1 +1,0 @@
-This is the ReadMe for the Mini project for week one of the bootcamp.
